@@ -1,3 +1,5 @@
+# Programming Assignment 3: Huffman
+
 **Assignment Spec:**
 
 **Creating a Huffman Code**
